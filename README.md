@@ -2,7 +2,7 @@
 
 ## 📋 Project Description
 
-This project builds a machine learning model that predicts employee salaries based on years of experience using **Linear Regression**. The project includes both a scikit-learn implementation and a **custom linear regression implementation** to understand how the algorithm works internally.
+This project builds a machine learning model that predicts employee salaries based on years of experience using **Linear Regression**.The project includes both a scikit-learn implementation and a **custom linear regression implementation** to understand how the algorithm works internally.
 
 ## 🎯 Objectives
 
